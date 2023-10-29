@@ -1,5 +1,5 @@
 # PARDNet
-This website shares the codes of the "Recovering a clean background: A parallel deep network architecture for single-image deraining", Pattern Recognition Letters (major revision), 2023.
+This website shares the code of the "Recovering a clean background: A parallel deep network architecture fWor single-image deraining" finished by Nanrun Zhou, Jibin Deng and Meng Pang, Pattern Recognition Letters (major revision), 2023.
 
 Prerequisites:
 tensorflow == 2.0.0
