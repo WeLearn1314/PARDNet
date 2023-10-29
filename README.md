@@ -2,13 +2,14 @@
 This website shares the code of the "Recovering a clean background: A parallel deep network architecture fWor single-image deraining" finished by Nanrun Zhou, Jibin Deng and Meng Pang, Pattern Recognition Letters (Major Revision), 2023.
 
 # Prerequisites:
+
+python == 3.6.2
+
 tensorflow == 2.0.0
 
 keras == 2.3.1
 
-python == 3.6.2
-
-CUDA == 11.6
+opencv-python == 4.5.5.62
 
 scikit-image == 0.17.2
 
@@ -33,4 +34,3 @@ python test.py --If_n False
 The dataset "Rain100H" and "Rain100L" you can download here:
 
 https://www.icst.pku.edu.cn/struct/Projects/joint_rain_removal.html
-
