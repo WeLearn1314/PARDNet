@@ -12,7 +12,6 @@ import math
 tf.disable_v2_behavior()
 tf.enable_eager_execution()
 
-
 class L0Loss:
     def __init__(self):
         self.gamma = K.variable(2.)
