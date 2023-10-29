@@ -3,9 +3,13 @@ This website shares the code of the "Recovering a clean background: A parallel d
 
 # Prerequisites:
 tensorflow == 2.0.0
+
 keras == 2.3.1
+
 python == 3.6.2
+
 CUDA == 11.6
+
 scikit-image == 0.17.2
 
 # Training
