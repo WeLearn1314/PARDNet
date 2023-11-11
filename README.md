@@ -1,5 +1,5 @@
 # PARDNet
-This website shares the code of the "Recovering a clean background: A parallel deep network architecture for single-image deraining" finished by Nanrun Zhou, Jibin Deng and Meng Pang, Pattern Recognition Letters (Major Revision), 2023.
+This website shares the code of the "Recovering a clean background: A parallel deep network architecture for single-image deraining" finished by Nanrun Zhou, Jibin Deng and Meng Pang*, Pattern Recognition Letters (Major Revision), 2023.
 
 # Prerequisites:
 
