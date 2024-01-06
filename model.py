@@ -57,8 +57,7 @@ def get_model(model_name="the_end"):
     if model_name == "the_end":
         return get_the_end_model()
     else:
-        raise ValueError("model_name should be 'srresnet'or 'unet'")
-
+        raise ValueError("model_name should be 'the_end'")
 
 def get_the_end_model(input_channel_num=3, feature_dim=64, resunit_num=16):
 
@@ -152,7 +151,6 @@ def get_the_end_model(input_channel_num=3, feature_dim=64, resunit_num=16):
 
 
 def main():
-    # model = get_model()
     model = get_model("unet")
     # model.summary()
 
