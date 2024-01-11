@@ -1,5 +1,5 @@
 # PARDNet
-Recovering a clean background: A parallel deep network architecture for single-image deraining (PARDNet) by Nanrun Zhou, Jibin Deng and Meng Pang* is published in Pattern Recognition Letters, 2024.
+Recovering a clean background: A parallel deep network architecture for single-image deraining (PARDNet) by Nanrun Zhou, Jibin Deng and Meng Pang* has been published in Pattern Recognition Letters, 2024.
 
 # Prerequisites:
 
