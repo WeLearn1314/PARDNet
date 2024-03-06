@@ -3,15 +3,15 @@ Recovering a clean background: A parallel deep network architecture for single-i
 
 # Prerequisites:
 
-python == 3.6.2
+python
 
-tensorflow == 2.0.0
+tensorflow
 
-keras == 2.3.1
+keras
 
-opencv-python == 4.5.5.62
+opencv-python
 
-scikit-image == 0.17.2
+scikit-image
 
 # Training
 For train the Rain100H, please run:
